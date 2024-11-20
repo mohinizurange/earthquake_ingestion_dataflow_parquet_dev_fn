@@ -1,0 +1,12 @@
+
+"""
+
+param monthly :
+
+--runner DataflowRunner --api_url=https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson --pipeline_nm=montly
+
+
+param monthly :
+ --runner DataflowRunner --api_url=https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson --pipeline_nm=daily
+
+"""
